@@ -1,2 +1,3 @@
-# course_python_mipt
-Курс "Основы Python" от МФТИ
+# Программирование на Python от Московский физико-технический институт & Mail.Ru Group
+
+https://www.coursera.org/learn/programming-in-python/home/welcome
