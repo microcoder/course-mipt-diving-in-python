@@ -1,4 +1,4 @@
-# Программирование на Python
+# Погружение в Python
 
 Оригинальный курс "Погружение в Python" доступен по [этой ссылке](https://www.coursera.org/learn/diving-in-python/) от Московский физико-технический институт & Mail.Ru Group.
 
